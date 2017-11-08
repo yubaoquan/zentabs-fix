@@ -1,0 +1,16 @@
+{
+    "context-menu": {
+        ".tab:not(.pinned)": [
+            {
+                "label": "Pin tab",
+                "command": "zentabs-fix:pintab"
+            }
+        ]
+    },
+    ".tab.pinned": [
+        {
+            "label": "Unpin tab",
+            "command": "zentabs-fix:unpintab"
+        }
+    ]
+}

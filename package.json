@@ -1,0 +1,16 @@
+{
+  "name": "zentabs-fix",
+  "main": "./lib/zentabs-fix",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "repository": "https://github.com/yubaoquan/zentabs-fix",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "atom-space-pen-views": "^2.2.0",
+    "underscore-plus": "^1.6.6"
+  }
+}
