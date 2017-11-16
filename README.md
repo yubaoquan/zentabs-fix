@@ -18,3 +18,4 @@ Not quite familiar of other options in zentabs. So this package only fix the bug
 - 0.1.0 init
 - 0.1.1 update description
 - 0.1.2 update readme
+- 0.1.3 remove useless code
